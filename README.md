@@ -42,7 +42,7 @@
 ---
 
 ### 🌐 Where find me
-- 💼 **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/lucas-c%C3%A2mara-862187362/)
+- 💼 **LinkedIn:** [My Profile](https://www.linkedin.com/in/lucas-c%C3%A2mara-862187362/)
 
 ---
 
