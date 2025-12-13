@@ -1,20 +1,19 @@
 <h1 align="center"> 👋 Olá, Eu sou Lucas!</h1>
 
 <p align="center">
-  | 🎯 Programador em desenvolvimento |
+  | 🎯 Programmer in development |
 </p>
 
 ---
 
-### 🚀 Sobre mim
+### 🚀 About me:
 <table>
   <tr>
       <img src="https://github.com/user-attachments/assets/2a8119da-13b2-4931-9ff6-92bec2cfe964" width="300" align="Right">
-      🎯 Programador em desenvolvimento <br>
-      🔧 Boa experiência em hardware e afins<br>
-      🎥 Adoro editar vídeos (Vegas, Premiere) <br>
-      🌱 Estudando programação e hardware <br>
-      🎮 Apaixonado por games, animes, rock e tecnologia
+      🎯 Programmer in development <br>
+      🔧 Good experience on hardwares and related <br>
+      🌱 Studying programming, mostly having interests on the back-end area <br>
+      🎮 In love with games, anime, rock and tech 
 
 
     
@@ -23,7 +22,7 @@
 
 ---
 
-### 💻 Tecnologias e Ferramentas
+### 💻 Technnologies
 <div style="display: inline_block">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
@@ -42,11 +41,11 @@
 
 ---
 
-### 🌐 Onde me encontrar
+### 🌐 Where find me
 - 💼 **LinkedIn:** [Meu Perfil](https://www.linkedin.com/in/lucas-c%C3%A2mara-862187362/)
 
 ---
 
 <p align="center">
-  Feito com ❤️ por Lucas C. do Nascimento
+  Made with ❤️ by Lucas C. do Nascimento
 </p>
