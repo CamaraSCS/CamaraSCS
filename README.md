@@ -1,4 +1,4 @@
-<h1 align="center"> 👋 Olá, Eu sou Lucas!</h1>
+<h1 align="center"> 👋 Hi, I'm Lucas!</h1>
 
 <p align="center">
   | 🎯 Programmer in development |
